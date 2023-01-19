@@ -20,7 +20,7 @@
       ReLU is common. Fast to compute and work wells.  There are ReLU variants are `Leaky ReLU` or `Noise ReLU` 
       activation functions
     <p>
-    <img src="images/activation functions.png" width="220" height="240" />
+    <img src="images/activation functions.png"  />
     </p>
     
       ![image](./images/activation functions.png)
