@@ -18,7 +18,8 @@
     - Exponential linear unit(ELU)
     - ReLU function (Rectified Linear Unit): 
       ReLU is common. Fast to compute and work wells.  There are ReLU variants are `Leaky ReLU` or `Noise ReLU` 
-      ![img_2.png](images/activation functions.png)
+      
+      ![activation functions.png](images/activation functions.png)
 ### Optimisation functions
 Gradient descent is the preferred way to optimize neural networks and many other
 machine learning algorithms and they are often embedded in libraries/tools.
