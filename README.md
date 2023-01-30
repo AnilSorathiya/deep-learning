@@ -1,5 +1,5 @@
 # Deep-learning Overview
-##Constructing, training and tuning multi-layer perceptrons
+## Constructing, training and tuning multi-layer perceptrons
 ### Back propogation
 - take error we calculated at end of network and back propagate to tune weights in each connection.
 - The gradient descent with reverse-mode autodiff used to perform backprogation
